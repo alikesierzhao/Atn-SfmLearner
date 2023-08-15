@@ -1,7 +1,7 @@
 # OV-SfmLearner
 Self-Supervised Deep Monocular Visual Odometry and Depth Estimation with Observation Variation
 
-Coming soon. We will upload our samples before September.
+Coming soon. We will upload our samples (both results and dataset) before September.
 
 https://user-images.githubusercontent.com/85214106/191673879-f80c9139-59d6-4d90-9363-2352309d5768.mp4
 
